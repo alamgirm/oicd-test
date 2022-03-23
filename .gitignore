@@ -1,0 +1,6 @@
+
+# any certificate or key
+*.pem
+
+node_moodules/
+
